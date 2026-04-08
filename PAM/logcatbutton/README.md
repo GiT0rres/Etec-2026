@@ -54,19 +54,6 @@ Cada botão dispara um tipo específico de log no sistema:
 
 ---
 
-##  Como executar o projeto
-
-1. Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/logcat-app.git
-```
-
-2. Abra o projeto no Android Studio  
-
-3. Execute em um emulador ou dispositivo físico  
-
----
-
 ##  Possíveis melhorias
 
 - Filtro de logs por TAG  
