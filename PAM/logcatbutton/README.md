@@ -8,7 +8,7 @@
 Aplicativo Android desenvolvido em **Kotlin + Jetpack Compose** para demonstrar, na prática, os níveis de log do Android (`Log.e`, `Log.w`, `Log.d`, `Log.i`) utilizando a API `android.util.Log`.
 
 
- Funcionalidades
+ ## Funcionalidades
 
 - Campo de texto para digitar o nome do usuário  
 - Quatro botões representando diferentes níveis de log  
@@ -17,7 +17,7 @@ Aplicativo Android desenvolvido em **Kotlin + Jetpack Compose** para demonstrar,
 
 ---
 
-## 🧠 Como funciona
+ ## Como funciona
 
 Cada botão dispara um tipo específico de log no sistema:
 
@@ -28,24 +28,24 @@ Cada botão dispara um tipo específico de log no sistema:
 | 🟢 **Menção B** | `Log.d()` | Debug | Indica que a menção é B |
 | 🔵 **Menção MB** | `Log.i()` | Informação | Indica que a menção é MB |
 
-💡 O nome digitado é incluído na mensagem exibida no Logcat, simulando um cenário real de uso.
+ O nome digitado é incluído na mensagem exibida no Logcat, simulando um cenário real de uso.
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
-### 📱 Tela do App
-<img src="screenshots/app.jpeg" width="300"/>
+###  Tela do App
+<img src="screenshots/teladoapp.jpg" width="300"/>
 
-### 📊 Saída no Logcat
-<img src="screenshots/logcat.jpeg" width="600"/>
+###  Saída no Logcat
+<img src="screenshots/logcat.jpg" width="600"/>
 
-### 🛠️ Projeto no Android Studio
-<img src="screenshots/projeto.jpeg" width="600"/>
+### Projeto no Android Studio
+<img src="screenshots/projeto.jpg" width="600"/>
 
 ---
 
-## ⚙️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Kotlin  
 - Jetpack Compose  
@@ -54,7 +54,7 @@ Cada botão dispara um tipo específico de log no sistema:
 
 ---
 
-## ▶️ Como executar o projeto
+##  Como executar o projeto
 
 1. Clone este repositório:
 ```bash
@@ -67,7 +67,7 @@ git clone https://github.com/seu-usuario/logcat-app.git
 
 ---
 
-## 📌 Possíveis melhorias
+##  Possíveis melhorias
 
 - Filtro de logs por TAG  
 - Visualização dos logs dentro do app  
@@ -76,12 +76,12 @@ git clone https://github.com/seu-usuario/logcat-app.git
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
 Projeto desenvolvido por **Giovanna Alves Martins Torres**
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto está sob a licença MIT - sinta-se livre para usar e modificar.
