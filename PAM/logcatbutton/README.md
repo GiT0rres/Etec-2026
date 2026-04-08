@@ -3,7 +3,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-purple?logo=kotlin)
 ![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)
 ![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-blue)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-em%20finalizado-verde)
 
 Aplicativo Android desenvolvido em **Kotlin + Jetpack Compose** para demonstrar, na prática, os níveis de log do Android (`Log.e`, `Log.w`, `Log.d`, `Log.i`) utilizando a API `android.util.Log`.
 
